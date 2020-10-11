@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidFundamentals3</string>
+    <string name="mono">Mono</string>
+    <string name="ratepets">Rate Pets</string>
+</resources>
